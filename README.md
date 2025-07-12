@@ -8,7 +8,7 @@ The dataset is stored in the file `D_15m_with_time.csv` and includes the followi
 
 - **Date**: The date of the observation (e.g., `2018-03-28`).
 - **Time**: The time of the observation (e.g., `00:00:00`).
-- **Count**: The numerical value to be predicted (e.g., event counts or measurements).
+- **Count**: The numerical value to be predicted (e.g., `123`).
 
 The dataset contains **35,424 samples**, with each sample representing a 15-minute interval, providing a high-resolution time series for analysis.
 
